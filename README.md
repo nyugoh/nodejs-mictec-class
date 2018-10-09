@@ -2,25 +2,25 @@
 ***
 ### Course outline :chart:
 
--[ ] Introduction :bulb:
-        
-        Will cover 
-        - what is Nodejs and it's ecosystem
-        - Installing Nodejs & yarn
-        - Text editors and IDEs
-        - Basic Javascript reminder
-        - Choose and agree on final goals/projects
+- [ ] Introduction :bulb:
+       
+     - what is Nodejs and it's ecosystem
+     - Installing Nodejs & yarn
+     - Text editors and IDEs
+     - Basic Javascript reminder
+     - Choose and agree on final goals/projects
  
- -[ ] Basics of Node
+ - [ ] Basics of Node
     
     - Design principles
     
  
  ### Requirements
- -[x] Nodejs Installed on your laptop ~ use the instructions below
- -[x] Yarn package manager ~ Instructions below
- -[x] Git software, installed
- -[x] Text-editor or IDE of choice
+ 
+ - [x] Nodejs Installed on your laptop ~ use the instructions below
+ - [x] Yarn package manager ~ Instructions below
+ - [x] Git software, installed
+ - [x] Text-editor or IDE of choice
   
  ## Resources links
  ***
