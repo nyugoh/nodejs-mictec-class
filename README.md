@@ -22,13 +22,13 @@
  -[x] Git software, installed
  -[x] Text-editor or IDE of choice
   
- ## Resources links
+ ## Resources links :link:
  ***
  ### Installing Nodejs
  #### On Windows
 Download and install the files from the links below
- - Windows 64 bits [here](https://nodejs.org)
- - Windows 32 bits [here](https://nodejs.org)
+ - Windows 64 bits [here](https://nodejs.org/dist/v8.12.0/node-v8.12.0-x64.msi)
+ - Windows 32 bits [here](  https://nodejs.org/dist/v8.12.0/node-v8.12.0-x86.msi)
 
 #### Installing on linux 
  
