@@ -7,6 +7,8 @@
      - what is Nodejs and it's ecosystem
      - Installing Nodejs & yarn
      - Text editors and IDEs
+     - Git & github primer
+     - Bash crush course
      - Basic Javascript reminder
      - Choose and agree on final goals/projects
  
@@ -21,6 +23,7 @@
  - [x] Yarn package manager ~ Instructions below
  - [x] Git software, installed
  - [x] Text-editor or IDE of choice
+
   
  ## Resources links :link:
  ***
@@ -48,8 +51,8 @@ Download and install the files from the links below
  
  -  Using package manager
  ```shell
- # Use your distro package management tool
- sudo apt install nodejs nodejs-legacy 
+    # Use your distro package management tool
+    sudo apt install nodejs nodejs-legacy 
  ```
  
  #### Installing Yarn
@@ -59,7 +62,7 @@ Download and install the files from the links below
     
  - Linux users
   ```shell
-  # Add PPA sources
+    # Add PPA sources
     curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
     echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
     # Install yarn now
@@ -90,5 +93,5 @@ Download and install the files from the links below
   
   #### Linux
   ```shell
-    sudo apt install git
+        sudo apt install git
   ```
