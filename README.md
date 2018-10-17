@@ -4,13 +4,14 @@
 
 - [ ] Introduction :bulb:
        
-     - what is Nodejs and it's ecosystem
-     - Installing Nodejs & yarn
-     - Text editors and IDEs
-     - Git & github primer
-     - Bash crush course
-     - Basic Javascript reminder
-     - Choose and agree on final goals/projects
+     - [ ] what is Nodejs and it's ecosystem
+     - [x] Installing Nodejs & yarn
+     - [x] Text editors and IDEs
+     - [x] Git & github primer
+     - [x] Bash crush course
+     - [x] Introduction to HTML and Bootstrap
+     - [ ] Basic Javascript reminder
+     - [ ] Choose and agree on final goals/projects
  
  - [ ] Basics of Node
     
