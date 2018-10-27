@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+</head>
+<body>
+   <div class="container">
+       <div class="col-sm-offset-4 col-sm-4">
+           <h2 id="heading" class="col-">Student portal</h2>
+        <form class="form-horizontal" role="form" action="verify.html">
+            <div class="form-group">
+               <label for="firstname" class="col-sm-2 control-label">First Name</label>
+               <div class="col-sm-10">
+                  <input type="text" class="form-control" id="firstname" 
+                     placeholder="Enter First Name">
+               </div>
+            </div>
+            <div class="form-group">
+               <label for="lastname" class="col-sm-2 control-label">Last Name</label>
+               <div class="col-sm-10">
+                  <input type="text" class="form-control" id="lastname" 
+                     placeholder="Enter Last Name">
+               </div>
+            </div>
+        
+            <div class="form-group">
+               <div class="col-sm-offset-2 col-sm-10">
+                  <button type="submit" class="btn btn-default">Sign in</button>
+               </div>
+            </div>
+         </form>
+       </div>
+   </div>
+   <script src="./main.js"></script>
+
+    
+   <script>
+      function test() {
+          confirm("Hello world")
+      }
+      function greeter(name, times) {
+          for(var i=0; i<times;i++){
+            console.log(i+1+" Hello " + name)
+          }
+      }
+      moha = "Moha"
+      greeter(moha, 5)
+    </script>
+</body>
+</html>
